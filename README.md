@@ -1,2 +1,2 @@
-# hw2_simple_css
-Starter code for simple css assignment
+# in-class-css-week4
+Starter code for in-class exercise for Winter 2022
